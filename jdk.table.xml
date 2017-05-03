@@ -1,0 +1,130 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.12 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python27/Lib/site-packages/beautifulsoup-3.2.1-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/PIL" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at C:\Users\haining.sun\LearnP4FI" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="C:\Users\haining.sun\LearnP4FI\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/LearnP4FI/Lib" />
+            <root type="simple" url="file://$USER_HOME$/LearnP4FI/Scripts" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/LearnP4FI" />
+            <root type="simple" url="file://$USER_HOME$/LearnP4FI/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/1003451287" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at D:\python\workspace\VirtualEnviroment" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="D:\python\workspace\VirtualEnviroment\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/python/workspace/VirtualEnviroment/Lib" />
+            <root type="simple" url="file://D:/python/workspace/VirtualEnviroment/Scripts" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://D:/python/workspace/VirtualEnviroment" />
+            <root type="simple" url="file://D:/python/workspace/VirtualEnviroment/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/980522024" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/python/workspace" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at D:\python\webworkspace\virtualEnviorment" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="D:\python\webworkspace\virtualEnviorment\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/python/webworkspace/virtualEnviorment/Lib" />
+            <root type="simple" url="file://D:/python/webworkspace/virtualEnviorment/Scripts" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://D:/python/webworkspace/virtualEnviorment" />
+            <root type="simple" url="file://D:/python/webworkspace/virtualEnviorment/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1683324350" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/python/webworkspace/website" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (C:\Python36\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python36/DLLs" />
+            <root type="simple" url="file://C:/Python36/Lib" />
+            <root type="simple" url="file://C:/Python36" />
+            <root type="simple" url="file://C:/Python36/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python36/Lib/site-packages/django_nvd3-0.9.7-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-1184660488" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
