@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Python" />
+      <mapping pattern="LearnLogAnalysis" type="Python" />
       <mapping ext="sqlite3" type="SQL" />
     </extensionMap>
   </component>
