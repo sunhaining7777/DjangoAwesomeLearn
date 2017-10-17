@@ -487,6 +487,7 @@
         <entry key="m2w64-grep" value="2.24" />
         <entry key="m2w64-gsl" value="2.1" />
         <entry key="m2w64-headers-git" value="5.0.0.4636.c0ad18a" />
+        <entry key="m2w64-icu" value="58.2" />
         <entry key="m2w64-isl" value="0.16.1" />
         <entry key="m2w64-jansson" value="2.7" />
         <entry key="m2w64-libffi" value="3.2.1" />
@@ -6012,6 +6013,13 @@
           <value>
             <list>
               <option value="5.0.0.4636.c0ad18a" />
+            </list>
+          </value>
+        </entry>
+        <entry key="m2w64-icu">
+          <value>
+            <list>
+              <option value="58.2" />
             </list>
           </value>
         </entry>
@@ -12811,6 +12819,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1506681184820" />
+    <option name="LAST_TIME_CHECKED" value="1508240208839" />
   </component>
 </application>
