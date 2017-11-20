@@ -942,6 +942,7 @@
         <entry key="r-pki" value="0.1_5.1" />
         <entry key="r-plm" value="1.6_5" />
         <entry key="r-plogr" value="0.1_1" />
+        <entry key="r-plumber" value="0.4.2" />
         <entry key="r-plyr" value="1.8.4" />
         <entry key="r-png" value="0.1_7" />
         <entry key="r-polspline" value="1.1.12" />
@@ -10333,6 +10334,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-plumber">
+          <value>
+            <list>
+              <option value="0.4.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-plyr">
           <value>
             <list>
@@ -13113,6 +13121,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1510216139138" />
+    <option name="LAST_TIME_CHECKED" value="1511156082524" />
   </component>
 </application>
